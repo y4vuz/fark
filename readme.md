@@ -1,4 +1,4 @@
 Katilanlar: 
 
-- Abdurahman 
+
 - Eren
